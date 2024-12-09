@@ -2,9 +2,12 @@
 The contents of this repository are from the Homework assignments assigned by [Prof. Chen Li](https://chenli.ics.uci.edu) for the CS224P: Big Data Management course during Fall 2024 at  University of California, Irvine.
 ## Project descrption can be found in [ZotMusic Vision.pdf](ZotMusic%20Vision.pdf).
 
-## Project 1-ER model design
+## HW1-ER Relational DBMS (PostgreSQL
 Conceptual design of databases (e.g., entity-relationship model), relational data model, functional dependencies.
-## Project 2-Databse design
+## HW2-Cassandra
 Create a schema and implement a database using DB2, write SQL queries to populate database from project 1 with data, to maintain, query and update data using SQL queries.
-## Project 3-Application program design
+## HW3-MongoDB
 Develop application programs, and implement a user-friendly interface using JDBC.
+## HW4-Neo4J
+## HW5-Spark
+## HW6-Flink
