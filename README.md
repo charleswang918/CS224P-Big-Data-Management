@@ -4,10 +4,10 @@ The contents of this repository are from the Homework assignments assigned by [P
 
 ## HW1-ER Relational DBMS (PostgreSQL): [HW1 Details.pdf](HW1/HW1%20Details.pdf)
 Conceptual design of databases (e.g., entity-relationship model), relational data model, functional dependencies.
-## HW2-Cassandra
+## HW2-Cassandra: [HW2 Details.pdf](HW1/HW2%20Details.pdf)
 Create a schema and implement a database using DB2, write SQL queries to populate database from project 1 with data, to maintain, query and update data using SQL queries.
-## HW3-MongoDB
+## HW3-MongoDB: [HW3 Details.pdf](HW3/HW3%20Details.pdf)
 Develop application programs, and implement a user-friendly interface using JDBC.
-## HW4-Neo4J
-## HW5-Spark
-## HW6-Flink
+## HW4-Neo4J: [HW4 Details.pdf](HW4/HW4%20Details.pdf)
+## HW5-Spark: [HW5 Details.pdf](HW5/HW5%20Details.pdf)
+## HW6-Flink: [HW6 Details.pdf](HW6/HW1%20Details.pdf)
